@@ -7,4 +7,5 @@ github_username: keezen
 
 # Build settings
 markdown: rdiscount
-highlighter: pygments
+
+permalink: /:year/:month/:day/:title.html
