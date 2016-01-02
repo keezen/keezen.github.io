@@ -1,2 +1,10 @@
+# Site settings
+title: Keezen
+email: keezen@qq.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://keezen.github.io" # the base hostname & protocol for your site
+github_username: keezen
+
+# Build settings
 markdown: rdiscount
 highlighter: pygments
