@@ -22,7 +22,10 @@ linkeye 是一套基于区块链技术的自主研发的征信共享联盟链解
 
 Linkeye正在联合火币空投LET,按要求加入他们的电报群并发送验证码，关注TWITTER和FACEBOOK，提交火币UID，赏金将直接进入您的HUOBI账户!空投地址：<https://airdrop.linkeye.com/#/?uid=21264981>
 
+5.3
+
 **GIFT**
+
 全球最大加密货币空投组织Gift.ONE正在空投Token！
 目前1GIFT = US$0.2，注册即送100GIFT
 参加活动更有机会抢100000GIFT
